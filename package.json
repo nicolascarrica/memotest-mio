@@ -1,0 +1,23 @@
+{
+  "name": "memotest-mio",
+  "version": "1.0.0",
+  "description": "Juego de memotest para r-argentina",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolascarrica/memotest-mio.git"
+  },
+  "author": "nico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolascarrica/memotest-mio/issues"
+  },
+  "homepage": "https://github.com/nicolascarrica/memotest-mio#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0"
+  }
+}
